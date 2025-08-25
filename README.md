@@ -12,7 +12,7 @@
 
 
 <h1> DevOps Shell Scripting with IT Tech </h1>
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/47e6feac-6163-42dd-9e7b-902740af8f26" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/47e6feac-6163-42dd-9e7b-902740af8f26" />
 
 
 ---
