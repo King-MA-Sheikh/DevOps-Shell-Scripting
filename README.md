@@ -11,8 +11,10 @@
 </p>
 
 
-<h1> DevOps Shell Scripting with IT Tech </h1>
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/47e6feac-6163-42dd-9e7b-902740af8f26" />
+<h1 align="center"> DevOps Shell Scripting with IT Tech </h1>
+<p align="center">
+    <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/47e6feac-6163-42dd-9e7b-902740af8f26" />
+</p>
 
 
 ---
